@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int T, H, W, N, temp = 0;
+    int T, H, W, N = 0;
     int room_num;
     int room_floor;
 
